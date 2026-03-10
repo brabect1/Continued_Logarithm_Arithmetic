@@ -9,7 +9,7 @@ University.
 Publications
 ------------
 
-- Branec, T., *Continued Logarithm Arithmetic and Hardware Units*, 2011, PhD Thesis, Czech Tech. Univ., Faculty of Electrical Engineering, Dept. of Comp. Sci. and Enginnering.
+- Brabec, T., *Continued Logarithm Arithmetic and Hardware Units*, 2011, PhD Thesis, Czech Tech. Univ., Faculty of Electrical Engineering, Dept. of Comp. Sci. and Enginnering.
 
 - Brabec, T., *Continued Logarithms*, 2008, Technical report (draft), Czech Tech. Univ., Faculty of Electrical Engineering, Dept. of Comp. Sci. and Enginnering.
 
