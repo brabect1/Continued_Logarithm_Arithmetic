@@ -15,3 +15,8 @@ Publications
 
 - Brabec, T., *Redundant Continued Logarithm Representation: Proof of Contractivity*, 2008, Unpublished manuscript.
 
+- Brabec, T., *`Speculatively Redundant Continued Logarithm Representation <https://doi.org/10.1109/TC.2010.110>`_*, in IEEE Transactions on Computers, vol. 59, no. 11, pp. 1441-1454, Nov. 2010, doi: 10.1109/TC.2010.110.
+
+  - supplement (republished as no longer available at IEEE Xplore): *`Proof of Interior Containment <pub/doi.10.1109/TC.2010.110.proof.pdf>`_*
+  - supplement (republished as no longer available at IEEE Xplore): *`Quantitative Results <pub/doi.10.1109/TC.2010.110.results.pdf>`_*
+

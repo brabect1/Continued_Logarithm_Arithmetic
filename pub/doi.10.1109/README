@@ -1,0 +1,22 @@
+This file contains a description of a supplemental material accompanying the
+IEEE Trans. Comp. manuscript ``Speculatively Redundant Continued Logarithm 
+Representation'' (DOI: 10.1109/TC.2010.110).
+
+These files are being republished here as they are no longer available from
+IEEE Xplore.
+
+Contents:
+
+* TC.2010.110.proof.pdf (size 108,543 B): This is a PDF document titled
+  ``Proof of Interior Containment''. This document forms an appendix to
+  the manuscript text. It contains a proof of interior containment of
+  the speculatively redundant representation proposed in the manuscript.
+  The appendix has been separated to make the manuscript meet page count
+  limits set by IEEE Trans. Comp.
+
+* TC.2010.110.results.pdf (size 125,480 B): This is a PDF document titled
+  ``Quantitative Results''. It provides results of a comparison between
+  the speculatively redundant continued logarithms, proposed in the manuscript,
+  and some other representations. These results accompany the manuscript
+  to illustrate the hypotheses discussed in the manuscript (Sec. 5,
+  ``Practical Results of Redundancy'').
